@@ -19,4 +19,4 @@ After collecting all the data from students using a google forms survey I had to
 I exported the responses as a CSV which I then took into Visual Studio Code. Importing the csv library in Python I was able to analyze the responses to get ratios and percentages for the majority of the questions asked. 
 
 ### The outcomes of the analysis
-The numbers and percentages that were retrieved from this project are all inside of the Jupyter notebook that is associated with this repository. All you have to do is run the different cells inside the notebook and the percentages of everyone's answers will be produced in a dictionary.
+The numbers and percentages that were retrieved from this project are all inside of the Jupyter notebook that is associated with this repository. The outcomes are displayed as lists with the percentages next to their corresponding student responses in markdown boxes underneath the function that calculated those numbers from the CSV.
